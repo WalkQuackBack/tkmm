@@ -19,7 +19,7 @@ title: About
 
 ## Special Thanks
 
-### Rarly support of the TKMM project
+### Early support of the TKMM project
 
 - Draz Reckned
 - Hermy
