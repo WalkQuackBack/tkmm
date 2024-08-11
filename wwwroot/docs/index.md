@@ -2,22 +2,15 @@
 title: Getting Started
 ---
 
-# TKMM Installation & Setup
+# Getting Started
 
 > [!IMPORTANT]
-> Before starting, make sure you have downloaded and installed the [.NET 8 runtime](../downloads) from the [downloads](../downloads) page.
->
-> If this step is not completed, the application will instantly crash.
-
----
+> Before starting, make sure you have downloaded .NET 8 Runtime and the appropriate version of TKMM Launcher from [Downloads](../downloads).
 
 ## Installation
 
-From the [downloads](../downloads) page, locate the correct version for your operating system.
-
-Click one of the options for `TKMM Launcher` to download a `zip` file containing the `tkmm-launcher` executable. When the download has completed, extract and run this executable.
-
-If the correct [.NET runtime](../downloads) is installed, the following window will open.
+Run and install the .NET 8 Runtime, if you do not have it installed already.
+After verifying you have the runtime installed correctly with the right version run the TKMM Launcher executable. The following window will open.
 
 <p>
     <img width="650" src="./images/Launcher.png" alt="tkmm launcher window">
@@ -32,34 +25,32 @@ When the installation completes, click `Launch` to open TKMM.
 
 ## Setup
 
-When TKMM first starts, you will likely be asked to configure your game path. 
+> [!NOTE]
+> You will need to obtain a dump of the game prior to using TKMM. If you do not already have one, you can search for how to obtain it elsewhere.
+
+When TKMM first starts, you will be asked to configure your game path. 
 
 <p>
     <img width="650" src="./images/Settings_NoGamePath.png" alt="invalid settings page">
 </p>
 
-The accent color used in TKMM will vary based on your system's accent color.
+Click the `...` button to browse to it's location.
 
 > [!NOTE]
-> If you do not already have the game dump on your computer, please google how to do it, as we cannot directly provide the resources needed to do so.
-
-Once you have the game dump, use the `...` button to browse to that location.
-
-> If the setting did not turn green, make sure you have a complete game dump and you selected the right folder (it will be the folder containing `ActorSystem`, `AI`, `AISchedule`, etc.).
-
-When everything is done correctly, you should have something similar to this.
-
-> [!IMPORTANT]
+> If the setting remains invalid, make sure you have a complete game dump and you are selecting the folder named `romfs` (containing `ActorSystem`, `AI`, `AISchedule`, etc.).
+>
 > The game dump provided must be the same version you are using on your Switch or emulator.
 >
-> For example, if you are playing `v1.1.2`, make sure your game dump is `v1.1.2` as well.
+> For example, if you are playing `v1.2.1`, make sure your game dump is `v1.2.1` as well. `v1.0.0` is not a supported version by TKMM.
+
+After following these steps, TKMM should look similar to this.
+
+> [!NOTE]
+> Even when settings are vaild you need to save for the status bar to not show the `Invalid setting` error.
 
 <p>
     <img width="650" src="./images/Settings_WithGamePath.png">
 </p>
-
-> [!NOTE]
-> Even when the game path is correct, the status bar will still show an `Invalid setting, GamePath is invalid.` error. Click the `Save` button in the bottom left to resolve this and save the settings.
 
 To learn more about configuring the TKMM settings, read through the [Settings](./settings) page.
 
