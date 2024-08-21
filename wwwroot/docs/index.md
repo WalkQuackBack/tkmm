@@ -19,9 +19,9 @@ After verifying you have the runtime installed correctly with the right version 
 > [!WARNING]
 > If you are installing on the Steam Deck and/or cannot run as the super-user, uncheck `Create Shortcuts` to avoid needing elevated permissions.
 
-Click `Install` to begin the installation process.
+Click <kbd>Install</kbd> to begin the installation process.
 
-When the installation completes, click `Launch` to open TKMM.
+When the installation completes, click <kbd>Launch</kbd> to open TKMM.
 
 ## Setup
 
@@ -34,7 +34,7 @@ When TKMM first starts, you will be asked to configure your game path.
     <img width="650" src="./images/Settings_NoGamePath.png" alt="invalid settings page">
 </p>
 
-Click the `...` button to browse to it's location.
+Click the <kbd>...</kbd> button to browse to it's location.
 
 > [!NOTE]
 > If the setting remains invalid, make sure you have a complete game dump and you are selecting the folder named `romfs` (containing `ActorSystem`, `AI`, `AISchedule`, etc.).
