@@ -31,7 +31,7 @@ There are multiple methods to install a mod from a file archive:
   - Drag a mod archive file onto the TKMM window
 - Browse for file
   - **Mod > Install File** will open a window to browse for a mod archive file
-  - Keyboard shortcut `Ctrl/Cmd + I`
+  - Keyboard shortcut <kbd>Ctrl</kbd> + <kbd>I</kbd>
 - Install button
   - When more than one mod is loaded, **Install** will appear under mod list
 - TKCL file association
@@ -59,7 +59,7 @@ Any other files should be added through the packaging tab.
   - Drag a mod folder onto the TKMM window
 - Browse for folder
   - **Mod > Install Folder** will open a window to browse for a mod folder
-  - Keyboard shortcut `Ctrl/Cmd + Shift + I`
+  - Keyboard shortcut <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>
 
 ### From [GameBanana](https://gamebanana.com/games/7617)
 
@@ -82,7 +82,7 @@ Mods packaged using TKMM can have Options to allow users to customize functional
 
 ### Configuration
 
-To configure options for a given mod, click on the configuration icon to the right of the mod's name in the mod list. Alternatively, with a mod selected, there will be a `Configure Options` button found underneath the mod's thumbnail.
+To configure options for a given mod, click on the configuration icon to the right of the mod's name in the mod list. Alternatively, with a mod selected, there will be a <kbd>Configure Options</kbd> button found underneath the mod's thumbnail.
 
 <p>
     <img width="650" src="./images/UseMods_04_01.png">
@@ -106,11 +106,11 @@ Profiles let you switch between selections of mods, sometimes referred to as mod
     <img width="650" src="./images/UseMods_05_01.png">
 </p>
 
-You can use the `+` button located next to the profile selector to add a new profile. The text field located below controls the name of the profile.
+You can use the <kbd>+</kbd> button located next to the profile selector to add a new profile. The text field located below controls the name of the profile.
 
 ### Mod Management
 
-To add a mod to a profile, click the `+` button next to it in the mods list.
+To add a mod to a profile, click the <kbd>+</kbd> button next to it in the mods list.
 
 To remove a mod from a profile, select the mod in the profile list and click on the delete button.
 
@@ -141,7 +141,7 @@ When there are mods modifying the same files, and the file types in question do 
 
 If your target for mods is an emulator or you want to transfer your merged mods to another device yourself, you should use this method.
 
-Click the `Merge` button to merge your mods together to the **Merged Mod Output Folder** specified in **Settings**.
+Click the <kbd>Merge</kbd> button to merge your mods together to the **Merged Mod Output Folder** specified in **Settings**.
 
 <p>
     <img width="650" src="./images/UseMods_06_01.png">
