@@ -2,7 +2,9 @@
 title: Downloads
 ---
 
-# [Windows](#tab/windows)
+# Downloads
+
+## [Windows](#tab/windows)
 
 > Downloads for Windows x64
 > 
@@ -18,7 +20,7 @@ title: Downloads
 >   <a class="download-btn" id="download-src" href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.6-windows-arm64-installer">.NET 8 Runtime (arm64)</a>
 > </div>
 
-# [Linux](#tab/linux)
+## [Linux](#tab/linux)
 
 > Downloads for Linux x64
 > 
@@ -34,19 +36,19 @@ title: Downloads
 >   <a class="download-btn" id="download-src" href="https://learn.microsoft.com/dotnet/core/install/linux-package-managers?WT.mc_id=dotnet-35129-website">.NET Runtime Install Guide</a>
 > </div>
 
-# [MacOS (Experimental)](#tab/macos)
+## [MacOS (Experimental)](#tab/macos)
 
 > [!WARNING]
-> MacOS is not supported by TKMM Team. Expect bugs, crashes and limited usability.
+> MacOS is not supported, and is experimental. Bugs and crashes are to be expected.
 
-> Downloads for MacOS x64
+> Downloads for MacOS x64 (Intel)
 > 
 > <div id="download-btns">
 >  <a class="download-btn" id="download-macos" href="https://github.com/TKMM-Team/Tkmm/releases/latest/download/TKMM-Launcher-osx-x64.zip">TKMM Launcher (x64)</a>
 >  <a class="download-btn" id="download-src" href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.6-macos-x64-installer">.NET 8 Runtime</a>
 > </div>
 
-> Downloads for MacOS Arm64
+> Downloads for MacOS Arm64 (Universal)
 > 
 > <div id="download-btns">
 >   <a class="download-btn" id="download-macos" href="https://github.com/TKMM-Team/Tkmm/releases/latest/download/TKMM-Launcher-osx-arm64.zip">TKMM Launcher (arm64)</a>
@@ -55,15 +57,15 @@ title: Downloads
 
 ---
 
-## Supported Platforms
+### Supported Platforms
 
 - **Windows 7+** | Fully supported
 - **Linux** | Partially supported
   - **SteamOS** | Experimental
   - **Switch (Lakka)** | Experimental
-- **MacOS** | Experimental
+- **MacOS (Intel and Universal)** | Experimental
 
-## Source Code
+### Source Code
 
 <div id="download-btns">
   <a class="download-btn" id="download-src" href="https://github.com/TKMM-Team/Tkmm/archive/refs/heads/master.zip">Download Source Code</a>
