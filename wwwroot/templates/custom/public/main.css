@@ -10,9 +10,6 @@
     --code-background: #c7c7c7;
     --bs-code-color: #333537;
     --bs-border-radius: 0.2rem;
-    --alert-info-color: #386ec0;
-    --alert-warn-color: #ed7741;
-    --alert-danger-color: #be3961;
 }
 
 [data-bs-theme=dark] {
@@ -137,34 +134,5 @@ code {
 
     &:hover {
         color: #d4d6e4;
-    }
-}
-
-.alert {
-    background: #2f000000;
-    color: var(--bs-color);
-}
-
-.alert-info {
-    border-color: var(--alert-info-color);
-
-    h5 {
-        color: var(--alert-info-color);
-    }
-}
-
-.alert-warning {
-    border-color: var(--alert-warn-color);
-
-    h5 {
-        color: var(--alert-warn-color);
-    }
-}
-
-.alert-danger {
-    border-color: var(--alert-danger-color);
-
-    h5 {
-        color: var(--alert-danger-color);
     }
 }
