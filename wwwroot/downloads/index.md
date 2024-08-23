@@ -1,4 +1,5 @@
 ---
+_layout: landing
 title: Downloads
 ---
 
