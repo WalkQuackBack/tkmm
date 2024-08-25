@@ -29,7 +29,7 @@
       "_enableSearch": true,
       "_appLogoPath": "images/Icon-Transparent-1024.png",
       "_appFaviconPath": "images/icon.ico",
-      "_appFooter": "<footer id=\"copyright\">Copyright © 2023-2024 TKMM-Team under the MIT License.</footer>",
+      "_appFooter": "<footer id=\"copyright\">This website is free and unencumbered software released into the public domain.</footer>",
       "pdf": true
     },
     "postProcessors": [
